@@ -1,0 +1,16 @@
+{
+    "result_window_geometry": "797x727+1766+373",
+    "api_url": "https://you_api_url/v1/chat/completions",
+    "api_key": "you_api_key",
+    "system_prompt": "请将图片中的所有文本翻译成简体中文。你只需要返回'翻译后的文本（原文）'，不需要其他任何内容。",
+    "model_name": "gemini-2.5-flash",
+    "request_timeout_seconds": 60,
+    "hotkey_select": "<ctrl>+<alt>+q",
+    "hotkey_capture": "x",
+    "result_bg_color": "#FFFFFF",
+    "result_fg_color": "#000000",
+    "result_font_family": "Arial",
+    "result_font_size": 14,
+    "result_width": 400,
+    "result_height": 200
+}
